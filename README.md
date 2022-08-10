@@ -2,11 +2,11 @@
 
 ## UML Diagram
 
-![](./images/lab26b.PNG)
+![](./images/lab27b.PNG)
 
 ## Test
 
-![](./images/lab26a.PNG)
+![](./images/lab27a.PNG)
 
 ## [Code Sandbox](https://codesandbox.io/s/elegant-sinoussi-9io30y)
 
