@@ -8,6 +8,6 @@
 
 ![](./images/lab26a.PNG)
 
-## [Code Sandbox](https://codesandbox.io/s/infallible-browser-f33523)
+## [Code Sandbox](https://codesandbox.io/s/elegant-sinoussi-9io30y)
 
-## [Pull Request](https://github.com/hadeel999/resty/pull/1)
+## [Pull Request](https://github.com/hadeel999/resty/pull/2)
