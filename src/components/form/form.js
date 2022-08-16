@@ -1,4 +1,3 @@
-'use strict';
 import { useRef } from 'react';
 import './form.scss';
 
