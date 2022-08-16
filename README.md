@@ -12,4 +12,4 @@
 
 ## [Pull Request](https://github.com/hadeel999/resty/pull/2)
 
-## [Netlify Link](https://deft-tartufo-eaba06.netlify.app/)
+## [Netlify Link](https://62fbe095e23ace39f19f0584--jocular-marshmallow-ef0d51.netlify.app/)
